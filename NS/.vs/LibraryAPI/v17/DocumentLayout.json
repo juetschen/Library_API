@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enes\\Desktop\\NS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF33398-31AD-497B-88F4-D9E71D689798}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\enes\\desktop\\ns\\libraryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDF33398-31AD-497B-88F4-D9E71D689798}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF33398-31AD-497B-88F4-D9E71D689798}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\enes\\desktop\\ns\\libraryapi\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF33398-31AD-497B-88F4-D9E71D689798}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF33398-31AD-497B-88F4-D9E71D689798}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\enes\\desktop\\ns\\libraryapi\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF33398-31AD-497B-88F4-D9E71D689798}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF33398-31AD-497B-88F4-D9E71D689798}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\enes\\desktop\\ns\\libraryapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF33398-31AD-497B-88F4-D9E71D689798}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF33398-31AD-497B-88F4-D9E71D689798}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\enes\\desktop\\ns\\libraryapi\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF33398-31AD-497B-88F4-D9E71D689798}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\NS\\LibraryAPI\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\NS\\LibraryAPI\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\MembersController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAqwJgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:10:10.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\NS\\LibraryAPI\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\NS\\LibraryAPI\\Models\\Person.cs",
+              "RelativeToolTip": "LibraryAPI\\Models\\Person.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:08:32.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\NS\\LibraryAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\NS\\LibraryAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAswLkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:05:19.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoansController.cs",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\NS\\LibraryAPI\\Controllers\\LoansController.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\LoansController.cs",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\NS\\LibraryAPI\\Controllers\\LoansController.cs",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\LoansController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwF4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T20:12:18.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\NS\\LibraryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\NS\\LibraryAPI\\appsettings.json",
+              "RelativeToolTip": "LibraryAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T20:10:48.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
